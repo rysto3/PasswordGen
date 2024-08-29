@@ -1,5 +1,5 @@
 # PasswordGen
-PasswordGen is a simple password generator that can be used to generate cryptographically sound passwords for various purposes.
+PasswordGen is a simple password generator that can be used to generate strong passwords for various purposes.
 
 # Purpose
 This was more or less just a fun personal project that I wanted to share for those that may be interested.
